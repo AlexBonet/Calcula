@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calcula</string>
+    <string name="sumar">SUMAR</string>
+    <string name="restar">RESTAR</string>
+</resources>
